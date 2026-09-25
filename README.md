@@ -273,8 +273,3 @@ ghazi@kali:~$ sudo ./hack_the_world.sh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=120&section=footer">
 
 </div>
-```
-
-**Use:** GitHub पर अपने account में `README.md` नाम की repository बनाकर यही पूरा code paste कर दो. `GhaziAbbas` तुम्हारा actual username है, इसलिए stats भी उसी username पर configured हैं।
-
-चाहो तो मैं अगला version **और ज्यादा “hacker terminal” style** में बना सकता हूँ—Matrix animation, animated terminal commands, Spotify section, Snake setup, badges और custom neon-green theme के साथ।
